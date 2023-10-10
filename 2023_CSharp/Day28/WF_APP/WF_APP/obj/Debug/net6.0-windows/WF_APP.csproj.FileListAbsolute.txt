@@ -1,0 +1,16 @@
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\bin\Debug\net6.0-windows\WF_APP.exe
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\bin\Debug\net6.0-windows\WF_APP.deps.json
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\bin\Debug\net6.0-windows\WF_APP.runtimeconfig.json
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\bin\Debug\net6.0-windows\WF_APP.dll
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\bin\Debug\net6.0-windows\WF_APP.pdb
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.Form1.resources
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.csproj.GenerateResource.cache
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.AssemblyInfoInputs.cache
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.AssemblyInfo.cs
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.csproj.CoreCompileInputs.cache
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.dll
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\refint\WF_APP.dll
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.pdb
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\WF_APP.genruntimeconfig.cache
+D:\HAO\C#\ironman\2023_CSharp\DAY28\WF_APP\WF_APP\obj\Debug\net6.0-windows\ref\WF_APP.dll
