@@ -1,0 +1,6 @@
+D:\HAO\C#\ironman\2023_CSharp\Day29\WFApp\CalculateLibrary\bin\Debug\CalculateLibrary.dll
+D:\HAO\C#\ironman\2023_CSharp\Day29\WFApp\CalculateLibrary\bin\Debug\CalculateLibrary.pdb
+D:\HAO\C#\ironman\2023_CSharp\Day29\WFApp\CalculateLibrary\obj\Debug\CalculateLibrary.csproj.AssemblyReference.cache
+D:\HAO\C#\ironman\2023_CSharp\Day29\WFApp\CalculateLibrary\obj\Debug\CalculateLibrary.csproj.CoreCompileInputs.cache
+D:\HAO\C#\ironman\2023_CSharp\Day29\WFApp\CalculateLibrary\obj\Debug\CalculateLibrary.dll
+D:\HAO\C#\ironman\2023_CSharp\Day29\WFApp\CalculateLibrary\obj\Debug\CalculateLibrary.pdb
